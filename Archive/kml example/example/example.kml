@@ -1,0 +1,432 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <visibility>1</visibility>
+    <Folder>
+      <visibility>1</visibility>
+      <Placemark id="1">
+        <name>Image 1</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170708_131617_GEK6QhZ.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-98.474117,30.642108,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="2">
+        <name>Image 2</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170708_131622_ET9eAwn.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-98.474117,30.642108,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="3">
+        <name>Image 3</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170725_095248_ulFCRC9.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.369053,32.846708,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="4">
+        <name>Image 4</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104701_s7u6iGd.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722258,30.298869,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="5">
+        <name>Image 5</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104718_hZbCwf5.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722272,30.298886,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="6">
+        <name>Image 6</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104724_Lqm5exk.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722303,30.298933,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="7">
+        <name>Image 7</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_112524_GST4nel.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722378,30.299103,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="8">
+        <name>Image 8</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_185608_IHWzSgO.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.813036,30.248517,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="9">
+        <name>Image 9</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_185854_UqEMz17.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.816569,30.248742,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="10">
+        <name>Image 10</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_190927_n4YwoiN.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.816569,30.248742,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="11">
+        <name>Image 11</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170821_110308_72mQYGb.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-86.693925,36.204567,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="12">
+        <name>Image 12</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170821_131804_UL7iG9i.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-86.690706,36.205750,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="13">
+        <name>Image 13</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170912_230620_PqT4m3N.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.727953,30.317942,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="14">
+        <name>Image 14</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170918_145514_3ty9oSg.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.735464,30.289111,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="15">
+        <name>Image 15</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170708_131617_AyhfpjX.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-98.474117,30.642108,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="16">
+        <name>Image 16</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170708_131622_QKdGCnv.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-98.474117,30.642108,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="17">
+        <name>Image 17</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170725_095248_x7ytznJ.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.369053,32.846708,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="18">
+        <name>Image 18</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104701_zRKEN2N.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722258,30.298869,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="19">
+        <name>Image 19</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104718_yQfXGXI.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722272,30.298886,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="20">
+        <name>Image 20</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104724_iF4yksp.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722303,30.298933,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="21">
+        <name>Image 21</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_112524_aOvkrmD.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722378,30.299103,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="22">
+        <name>Image 22</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_185854_OU6NxE9.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.816569,30.248742,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="23">
+        <name>Image 23</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_190927_JFtWAg8.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.816569,30.248742,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="24">
+        <name>Image 24</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170821_110308_4Dl1YWm.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-86.693925,36.204567,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="25">
+        <name>Image 25</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170821_131804_12m4uYr.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-86.690706,36.205750,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="26">
+        <name>Image 26</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170912_230620_LL5Yh42.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.727953,30.317942,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="27">
+        <name>Image 27</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170918_145514_Q2J0wNQ.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.735464,30.289111,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="28">
+        <name>Image 28</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170708_131617_1qoTjuT.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-98.474117,30.642108,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="29">
+        <name>Image 29</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170708_131622_xhGHnXh.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-98.474117,30.642108,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="30">
+        <name>Image 30</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170725_095248_EsTfvid.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.369053,32.846708,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="31">
+        <name>Image 31</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104701_dP9dpnf.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722258,30.298869,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="32">
+        <name>Image 32</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104718_Zwb4S8Y.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722272,30.298886,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="33">
+        <name>Image 33</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104724_Qp10jqc.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722303,30.298933,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="34">
+        <name>Image 34</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_112524_y88Ssg0.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722378,30.299103,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="35">
+        <name>Image 35</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_185854_I1GPJTp.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.816569,30.248742,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="36">
+        <name>Image 36</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_190927_XUPG9rB.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.816569,30.248742,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="37">
+        <name>Image 37</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170821_110308_4QGxq6e.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-86.693925,36.204567,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="38">
+        <name>Image 38</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170821_131804_EIYV6KL.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-86.690706,36.205750,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="39">
+        <name>Image 39</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170912_230620_HfPNeSI.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.727953,30.317942,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="40">
+        <name>Image 40</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170918_145514_vdTTfjh.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.735464,30.289111,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="41">
+        <name>Image 41</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170708_131617_cKBZMF6.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-98.474117,30.642108,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="42">
+        <name>Image 42</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170708_131622_4DAjfie.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-98.474117,30.642108,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="43">
+        <name>Image 43</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170725_095248_dUBa9uE.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.369053,32.846708,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="44">
+        <name>Image 44</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104701_GnV7rH0.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722258,30.298869,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="45">
+        <name>Image 45</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104718_sGkkPgN.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722272,30.298886,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="46">
+        <name>Image 46</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_104724_c1JJFOY.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722303,30.298933,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="47">
+        <name>Image 47</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_112524_snjHD0A.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.722378,30.299103,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="48">
+        <name>Image 48</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_185854_bm9Tlfn.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.816569,30.248742,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="49">
+        <name>Image 49</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170730_190927_FVixaJG.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.816569,30.248742,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="50">
+        <name>Image 50</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170821_110308_wnUtonz.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-86.693925,36.204567,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="51">
+        <name>Image 51</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170821_131804_Lqwf7FE.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-86.690706,36.205750,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="52">
+        <name>Image 52</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170912_230620_Xtu8pIx.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.727953,30.317942,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="53">
+        <name>Image 53</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:/Users/bcbra/Desktop/Fall 2018/Software engineering/Senioritis/Project_3_Infastructure/kml example/example/documents/2018/11/27/IMG_20170918_145514_q6G6Fk9.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.735464,30.289111,0.000000</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

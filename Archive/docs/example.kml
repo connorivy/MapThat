@@ -1,0 +1,40 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <visibility>1</visibility>
+    <Folder>
+      <visibility>1</visibility>
+      <Placemark id="1">
+        <name>Image 1</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:\Users\bcbra\Desktop\Fall 2018\Software engineering\Senioritis\Project_3_Infastructure\test_images\DSCN0010.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>11.885127,43.467448,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="2">
+        <name>Image 2</name>
+        <description>&lt;img style="max-width:500px;" src="file:///C:\Users\bcbra\Desktop\Fall 2018\Software engineering\Senioritis\Project_3_Infastructure\test_images\Canon_PowerShot_S40.jpg"&gt;</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>11.879213,43.467255,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+    <name>Simple placemark</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>-122.0822035425683,37.42228990140251,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Simple placemark two</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>-120.0822035425683,37.42228990140251,0</coordinates>
+    </Point>
+  </Placemark>
+    </Folder>
+  </Document>
+</kml>
