@@ -3,6 +3,8 @@
 
     This project does **not** require any GIS library or specific database.
     Map data are stored in simple JSON fields.
+    
+    USE PYTHON 3.7
 
 Install
 =======
