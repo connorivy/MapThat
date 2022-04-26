@@ -8,7 +8,7 @@ Map data are stored in simple JSON fields.
 **USE PYTHON 3.7**
 
 #### Step 1 - Clone and Install Dependencies:
-`git clone https://github.com/connorivy/GBScheduler.git`
+`git clone https://github.com/connorivy/MapThat.git`
 
 ** Optional - create virtual environment `py -3.7 -m venv venv` `venv\Scripts\activate.bat` **
 
